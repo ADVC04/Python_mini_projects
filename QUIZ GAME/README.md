@@ -18,6 +18,7 @@ Since the program uses the `input()` function, it interacts with the user throug
 
 Please note that there is a small typo in the code. The line for the ROM question is missing a question mark at the end. It should be like this:
 
-"answer = input("What does ROM stand for? ")"
+python
+answer = input("What does ROM stand for? ")
 
 Other than that, the code looks good and should work as intended for a simple quiz game.
